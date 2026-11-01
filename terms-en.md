@@ -1,0 +1,18 @@
+# Stamp & Sticker Album Terms of Use
+Effective November 1, 2026
+Support: support@missyoy.com
+
+Service and content
+The app turns photos you select or capture into decorative digital stamps and stickers, organizes collections and provides sharing and paid A4 export. You retain your content rights and must have permission to use your photos and materials. Do not infringe privacy, intellectual property or applicable laws. Decorative stamps are not valid postage.
+
+Free and Pro
+Free includes up to 30 cards, one album, kraft and blank paper, and watermarked single-card sharing. Pro includes unlimited cards and albums, all paper styles, watermark-free sharing and A4 PDF export, subject to device and iCloud storage capacity. Existing collections remain after a subscription ends. You can view, edit, delete and share them; creation and advanced features then follow free limits.
+
+Purchases and renewal
+Pro is available as monthly or yearly auto-renewable subscriptions or a lifetime non-consumable purchase. Price, currency, duration and any offers are shown by Apple before purchase. Payments are handled by your Apple Account. Subscriptions renew under Apple's displayed terms unless canceled in system subscription settings at least 24 hours before the current period ends. Cancellation generally takes effect at period end and does not automatically refund the used period. Lifetime purchases do not renew. Restoring requires the purchasing Apple Account. Purchases are subject to Apple's standard EULA (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) and applicable App Store terms. Request refunds through Apple, subject to its policies and applicable law.
+
+Synchronization, backups and printing
+iCloud depends on Apple services, connectivity, account status and available storage; immediate synchronization is not guaranteed. Keep exports of important collections. PDFs target actual-size A4 printing, but printers, drivers and paper can introduce errors. Check the calibration ruler before printing final sheets. Foreground extraction may fail and may fall back to a rounded image. Review output, print scale and sharing recipients yourself.
+
+Responsibility and changes
+To the extent permitted by law, we are not responsible for Apple service outages, network interruptions or device problems beyond reasonable control. Nothing excludes rights or liabilities that cannot lawfully be excluded. Material changes will update these terms and the effective date. Contact support@missyoy.com to resolve concerns; mandatory consumer remedies and jurisdiction rights in your location remain available.
