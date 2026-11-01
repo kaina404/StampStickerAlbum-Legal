@@ -3,10 +3,13 @@ Effective November 1, 2026
 Contact: support@missyoy.com
 
 Photos and camera
-Only photos you select or capture are processed. Cropping and foreground extraction run on your device using Apple frameworks. We do not scan your library or upload originals to our own server. The app stores rendered cards, thumbnails, titles, dates, notes, albums and layout information, not original photos. Camera access occurs only after you choose to take a photo and grant permission. Photo selection uses the system picker.
+Only photos you select or capture are processed. Cropping and foreground extraction run on your device using Apple frameworks. We do not scan your library or upload originals to our own server. The app stores rendered cards, thumbnails, titles, dates, notes, photo coordinates, place names, albums and layout information, not original photos. Camera access occurs only after you choose to take a photo and grant permission. Photo selection uses the system picker.
 
 Storage and synchronization
-Collections are stored locally and synchronized through SwiftData and CloudKit to your private iCloud database. Synchronization depends on your Apple Account, available storage and network and may be delayed. We operate no content server or account system and do not proactively read private collections. Apple processes iCloud data under its own privacy policy. The app collects no location data and contains no advertising, third-party analytics or cross-app tracking.
+Collections are stored locally and synchronized through SwiftData and CloudKit to your private iCloud database. Synchronization depends on your Apple Account, available storage and network and may be delayed. We operate no content server or account system and do not proactively read private collections. Apple processes iCloud data under its own privacy policy. The app does not request device location permission and contains no advertising, third-party analytics or cross-app tracking.
+
+Photo places
+When a selected library photo contains EXIF GPS coordinates, the app sends those coordinates to Apple Maps services to resolve a short place name. This network request is handled by Apple under its privacy policy, not by a developer server. Coordinates and resulting or manually edited place names are stored with the card locally and synchronized only to your own private iCloud database. Camera captures have no automatic place; you can enter one yourself. If the photo has no GPS, you remove its location before importing, or resolution fails, you can leave the place empty. Place resolution never blocks creating a card.
 
 Purchases
 Apple handles payments. StoreKit verifies Apple-signed transactions and subscription status locally. We do not receive payment card or bank information. Restore Purchases asks Apple to refresh your purchase history. Apple retains transaction information under its policies.
